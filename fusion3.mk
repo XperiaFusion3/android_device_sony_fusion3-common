@@ -66,7 +66,7 @@ PRODUCT_PACKAGES += \
 
 # Apps
 PRODUCT_PACKAGES += \
-    Snap
+    Snap \
     Gello
 
 # Display
