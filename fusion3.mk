@@ -64,9 +64,10 @@ PRODUCT_PACKAGES += \
     libshim_camera \
     libshim_cald
 
-# Snap Camera
+# Apps
 PRODUCT_PACKAGES += \
     Snap
+    Gello
 
 # Display
 PRODUCT_PACKAGES += \
